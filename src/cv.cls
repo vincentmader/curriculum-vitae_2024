@@ -99,8 +99,8 @@
                 \foo{\textbf{Date of Birth} & \@dateOfBirth}
             \end{itemize}\vspace*{-4mm}
             \begin{itemize}[leftmargin=*, labelsep=0mm]
-                \foo{\textbf{City of Birth} & \@cityOfBirth, \@countryOfBirth}
                 \foo{\textbf{Nationality}   & \@nationality}
+                \foo{\textbf{City of Birth} & \@cityOfBirth, \@countryOfBirth}
             \end{itemize}
         \end{multicols}
         \vspace*{-7mm}
